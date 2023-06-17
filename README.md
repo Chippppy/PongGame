@@ -2,6 +2,8 @@
 
 Javascript classic arcade game of Pong!
 
+## [\---PLAY PONG---](https://chippppy.github.io/PongGame/index.html)
+
 ## Controls -
 
 Player 1:
